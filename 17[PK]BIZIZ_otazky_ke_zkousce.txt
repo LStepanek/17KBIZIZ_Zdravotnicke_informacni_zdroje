@@ -1,20 +1,20 @@
- 1 -- Klasifikaèní systémy
- 2 -- Variabilita a normálnost dat
- 3 -- Typy experimentálních studií 
- 4 -- Typy observaèních studií 
- 5 -- Medicína zaloená na dùkazech 
- 6 -- Posuzování informaèních zdrojù 
- 7 -- Primární informaèní prameny 
- 8 -- Struktura odborného sdìlení
- 9 -- Sekundární informaèní prameny 
-10 -- Elektronické báze bibliografickıch dat 
-11 -- Internetové zdroje ve zdravotnictví 
-12 -- Vyhledávací internetové sluby 
-13 -- Rešerše, strategie a taktika vyhledávání 
-14 -- Pøíprava odborné prezentace  
-15 -- Projev pøi odborné prezentaci
-16 -- Vybavení pro fotodokumentaci
-17 -- Poøízení fotodokumentace 
-18 -- Základní parametry deskriptivní statistiky 
-19 -- Interpretace vısledkù studií 
-20 -- Posouzení vıznamnosti 
+ 1 -- KlasifikaÄnÃ­ systÃ©my
+ 2 -- Variabilita a normÃ¡lnost dat
+ 3 -- Typy experimentÃ¡lnÃ­ch studiÃ­ 
+ 4 -- Typy observaÄnÃ­ch studiÃ­ 
+ 5 -- MedicÃ­na zaloÅ¾enÃ¡ na dÅ¯kazech 
+ 6 -- PosuzovÃ¡nÃ­ informaÄnÃ­ch zdrojÅ¯ 
+ 7 -- PrimÃ¡rnÃ­ informaÄnÃ­ prameny 
+ 8 -- Struktura odbornÃ©ho sdÄ›lenÃ­
+ 9 -- SekundÃ¡rnÃ­ informaÄnÃ­ prameny 
+10 -- ElektronickÃ© bÃ¡ze bibliografickÃ½ch dat 
+11 -- InternetovÃ© zdroje ve zdravotnictvÃ­ 
+12 -- VyhledÃ¡vacÃ­ internetovÃ© sluÅ¾by 
+13 -- ReÅ¡erÅ¡e, strategie a taktika vyhledÃ¡vÃ¡nÃ­ 
+14 -- PÅ™Ã­prava odbornÃ© prezentace  
+15 -- Projev pÅ™i odbornÃ© prezentaci
+16 -- VybavenÃ­ pro fotodokumentaci
+17 -- PoÅ™Ã­zenÃ­ fotodokumentace 
+18 -- ZÃ¡kladnÃ­ parametry deskriptivnÃ­ statistiky 
+19 -- Interpretace vÃ½sledkÅ¯ studiÃ­ 
+20 -- PosouzenÃ­ vÃ½znamnosti
