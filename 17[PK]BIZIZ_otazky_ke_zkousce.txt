@@ -1,0 +1,20 @@
+ 1 -- Klasifikaèní systémy
+ 2 -- Variabilita a normálnost dat
+ 3 -- Typy experimentálních studií 
+ 4 -- Typy observaèních studií 
+ 5 -- Medicína založená na dùkazech 
+ 6 -- Posuzování informaèních zdrojù 
+ 7 -- Primární informaèní prameny 
+ 8 -- Struktura odborného sdìlení
+ 9 -- Sekundární informaèní prameny 
+10 -- Elektronické báze bibliografických dat 
+11 -- Internetové zdroje ve zdravotnictví 
+12 -- Vyhledávací internetové služby 
+13 -- Rešerše, strategie a taktika vyhledávání 
+14 -- Pøíprava odborné prezentace  
+15 -- Projev pøi odborné prezentaci
+16 -- Vybavení pro fotodokumentaci
+17 -- Poøízení fotodokumentace 
+18 -- Základní parametry deskriptivní statistiky 
+19 -- Interpretace výsledkù studií 
+20 -- Posouzení významnosti 
